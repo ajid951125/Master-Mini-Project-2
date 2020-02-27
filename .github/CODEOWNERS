@@ -9,10 +9,10 @@
 *                @beandkay @leemgs 
 
 # For /docs/, reviewers are limited to those who understand documentation
-/docs/           @leemgs @beandkay  @JangHanbin @ajid951125
+/docs/           @leemgs @beandkay  @ajid951125
 
 # For /src/, reviewers are limited to those who develop source code
-/src/            @leemgs @beandkay  @JangHanbin @ajid951125
+/src/            @leemgs @beandkay  @ajid951125
 
 # For /packaging/, reviewers are limited to those who have some RPM packaging experiences
-/debian/         @leemgs @beandkay  @JangHanbin @ajid951125
+/debian/         @leemgs @beandkay  @ajid951125
